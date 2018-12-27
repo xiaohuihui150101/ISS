@@ -1,0 +1,56 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.15.1)
+  - ReactiveObjC (2.0.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - TZImagePickerController (3.1.5)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.2.1)
+  - Masonry
+  - MBProgressHUD
+  - MJExtension
+  - ReactiveObjC (~> 2.0.0)
+  - SDWebImage
+  - TZImagePickerController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - ReactiveObjC
+    - SDWebImage
+    - TZImagePickerController
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  ReactiveObjC: d92f5be3f4336aaba9e839286b879f541ffd1cd6
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  TZImagePickerController: 6cc6e9c1a73bb8e62cfef98fd40af2d90634dcf5
+
+PODFILE CHECKSUM: a22f7cb797ad644f3eb025735abbde50aaf2a74e
+
+COCOAPODS: 1.5.3
